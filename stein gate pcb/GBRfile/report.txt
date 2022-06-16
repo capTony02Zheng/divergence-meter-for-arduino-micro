@@ -1,0 +1,11 @@
+Plotted to '/Users/zzh/Desktop/kicad project/stein gate pcb/GBRfile/stein gate pcb-F_Cu.gbr'.
+Plotted to '/Users/zzh/Desktop/kicad project/stein gate pcb/GBRfile/stein gate pcb-B_Cu.gbr'.
+Plotted to '/Users/zzh/Desktop/kicad project/stein gate pcb/GBRfile/stein gate pcb-F_Paste.gbr'.
+Plotted to '/Users/zzh/Desktop/kicad project/stein gate pcb/GBRfile/stein gate pcb-B_Paste.gbr'.
+Plotted to '/Users/zzh/Desktop/kicad project/stein gate pcb/GBRfile/stein gate pcb-F_Silkscreen.gbr'.
+Plotted to '/Users/zzh/Desktop/kicad project/stein gate pcb/GBRfile/stein gate pcb-B_Silkscreen.gbr'.
+Plotted to '/Users/zzh/Desktop/kicad project/stein gate pcb/GBRfile/stein gate pcb-F_Mask.gbr'.
+Plotted to '/Users/zzh/Desktop/kicad project/stein gate pcb/GBRfile/stein gate pcb-B_Mask.gbr'.
+Plotted to '/Users/zzh/Desktop/kicad project/stein gate pcb/GBRfile/stein gate pcb-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/zzh/Desktop/kicad project/stein gate pcb/GBRfile/stein gate pcb-job.gbrjob'.
+Info: Done.
