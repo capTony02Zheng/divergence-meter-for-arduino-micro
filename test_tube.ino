@@ -1,3 +1,6 @@
+//this is for testing the tubes are working or not or the chips are working or not
+//用于测试芯片是否虚焊和辉光管是否正常
+//by capTOZ
 #include <SPI.h>
 #include <Wire.h>
 
