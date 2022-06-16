@@ -57,3 +57,5 @@ Play: At worldline mode you can use it to get in and out of random display mode;
 "C": At manual input mode you can use it to change wether the decimal point and number are display in one tube or not, which can save some spaces. At worldline mode you can change the number to be displayed one by one or all by instant.
 
 "return": clear all the input data at the manual display mode.
+
+left and right arrow: when at worldline mode and the menu mode is off, you can use it to display the next or previous worldline.
