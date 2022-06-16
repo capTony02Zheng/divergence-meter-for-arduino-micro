@@ -38,4 +38,16 @@ There are 6 mode for the divergence meter, the first one displays current time; 
 displays Celsius temperature recorded by ds3231; the fourth mode displays displays worldline; the fifth mode displays the number you entered;
 the sixth one diplays number from 0 to 9 to protect the tubes;
 
-//
+//About the control:
+
+Power: close or open;
+
+Menu: First time you pressed you entered menu mode, then you can push button from 0 to 5 to choose corresponding mode, which will help you leave the menu mode automatically. Or at menu mode you can use arrow to go to the next or previous mode, then press menu again to exit the menu mode;
+
+Play: At worldline mode you can use it to get in and out of random display mode; At manual input mode you can use it to open or close displays.
+
+"-": as decimal point in manual input mode.
+
+"C": At manual input mode you can use it to change wether the decimal point and number are display in one tube or not, which can save some spaces. At worldline mode you can change the number to be displayed one by one or all by instant.
+
+"return": clear all the input data at the manual display mode.
