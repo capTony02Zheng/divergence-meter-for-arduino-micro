@@ -21,7 +21,7 @@ other code, which is not provided here.
 After gathering all the component, it is time for you to do the soldering work. It is recommended to solder the 4 chips first, then the arduino board.
 
 About the boost module:
-pin "170vin1" and "170vin2" should be connected to the 170v output from the boost module. pin "To170v" shoule be connected to the 5v input on the boost module.
+pin "170vin1" and "170vin2" should be connected to the 170v output from the boost module. pin "5VFB" shoule be connected to the 5v input on the boost module.
 
 About external power source(Optional):
 if you decided to use other battery module to support the arduino, the pins "BatteryIn" and "BatteryGround" is provided, the supporting volts should not exceeds the the range that arduino micro can accept.
