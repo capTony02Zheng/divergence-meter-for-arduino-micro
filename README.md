@@ -1,14 +1,16 @@
 # divergence-meter-code-for-arduino-micro
 // This is a project use for creating an divergence meter. Thank you for visiting.
+-----------------------------------------------------------------------
 
 // Code are well written but need the user to update the IRdata to match the 1838IR remote control. Also the ds3231 module need to be updated with
 other code, which is not provided here.
 
 // The PCB is developed with kiCAD.
------------------------------------------------------------------------
+
 
 
 // To start up from nothing, here's the few steps you need to follow:
+-----------------------------------------------------------------------
 // Get all the component you need, which includes:
 
 // An arduino micro board;
@@ -33,10 +35,11 @@ for places like "t1dp" and "t2dp", a 100k resistor is recommended.
 
 About the pins:
 you can directly connected the nixie tubes pins to the correponding hole in the pcb, like the t1n1 means tube1 number1, at displays it is the number "1" of the left most nixie tube. or you can use ph2.0 sockets with 12 pins.
------------------------------------------------------------------------
+
 
 
 //Features and controls of the divergence meter:
+-----------------------------------------------------------------------
 There are 6 mode for the divergence meter, the first one displays current time; the second one displays current date; the third one
 displays Celsius temperature recorded by ds3231; the fourth mode displays displays worldline; the fifth mode displays the number you entered;
 the sixth one diplays number from 0 to 9 to protect the tubes;
