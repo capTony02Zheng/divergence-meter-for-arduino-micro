@@ -5,7 +5,8 @@
 other code, which is not provided here.
 
 // The PCB is developed with kiCAD.
-
+//
+//
 
 // To start up from nothing, here's the few steps you need to follow:
 // Get all the component you need, which includes:
@@ -32,7 +33,8 @@ for places like "t1dp" and "t2dp", a 100k resistor is recommended.
 
 About the pins:
 you can directly connected the nixie tubes pins to the correponding hole in the pcb, like the t1n1 means tube1 number1, at displays it is the number "1" of the left most nixie tube. or you can use ph2.0 sockets with 12 pins.
- 
+ //
+ //
 
 
 //Features and controls of the divergence meter:
