@@ -1,4 +1,4 @@
-# divergence-meter-code-for-arduino-micro
+# divergence-meter-for-arduino-micro
  This is a project use for creating an divergence meter. Thank you for visiting.
 -----------------------------------------------------------------------
 
